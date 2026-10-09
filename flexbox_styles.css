@@ -28,6 +28,17 @@ nav {
   gap: 10px;
 }
 
+.card-container {
+  display: flex;
+  gap: 30px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
 
 /* 
 Challenge: Use flexbox in media queries to create a responsive layout 
