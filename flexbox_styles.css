@@ -5,6 +5,7 @@ Note: you should only need to use flexbox properties and margin/padding to creat
 
 header {
   display: flex;
+  align-items: center;
   padding: 10px;
 }
 
