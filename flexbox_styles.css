@@ -54,6 +54,24 @@ nav {
   padding: 30px;
 }
 
+.footer-content {
+  display: flex;
+  gap: 30px;
+  padding-bottom: 30px;
+}
+
+.footer-section {
+  display: flex;
+  flex-direction: column;
+  flex: 1 0 30%;
+  gap: 10px;
+}
+
+.social-links {
+  display: flex;
+  gap: 10px;
+}
+
 /* 
 Challenge: Use flexbox in media queries to create a responsive layout 
 */
